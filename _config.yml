@@ -1,7 +1,7 @@
 name: jules stirling
 favicon: null
-layout_spectrum: 0.49590671015903354
-typography_spectrum: 0.252759545808658
+layout_spectrum: 0.73507
+typography_spectrum: 0.39033
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.15730382571928203
+    - '#ececee'
+    - '#8f867f'
+    - '#4e4e50'
+    - '#c7c7c9'
+    - '#0e0a07'
+  brandStrength: 0.125
   lightness: 0.24004877638071775
-  saturation: 0.8925572168081999
+  saturation: 0.5
   rhythmicContrast: 0.6993880737572908
 purpose: []

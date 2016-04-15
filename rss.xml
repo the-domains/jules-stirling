@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[jules stirling]]></title>
         <description><![CDATA[jules stirling]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jules-stirling/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 18:55:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 18:59:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jules-stirling/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ah, retro Whistler.]]></title>
+            <description><![CDATA[<article><h1>Ah, retro Whistler.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c06a56f-5a3d-48fb-99d9-db318c65a4a6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jules-stirling/ah-retro-whistler/index.html</link>
+            <guid isPermaLink="false">1d22c189-8ee3-4935-87c1-3cfdd3cc7e31</guid>
+            <pubDate>Fri, 15 Apr 2016 18:59:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1aef3750-eba1-4bce-b726-4c9373411410.jpg">]]></description>
-            <link>undefinednordic-racers-race-suit/index.html</link>
+            <link>https://thegrid.ai/jules-stirling/nordic-racers-race-suit/index.html</link>
             <guid isPermaLink="false">0e809442-3494-4343-9a46-2479684cf088</guid>
             <pubDate>Fri, 15 Apr 2016 18:55:11 GMT</pubDate>
         </item>

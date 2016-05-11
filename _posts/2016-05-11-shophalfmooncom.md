@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Style photography for shophalfmoon.com.
-datePublished: '2016-05-11T03:16:23.564Z'
-dateModified: '2016-05-11T03:16:15.135Z'
+datePublished: '2016-05-11T03:22:05.516Z'
+dateModified: '2016-05-11T03:16:40.929Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-11-shophalfmooncom.md
